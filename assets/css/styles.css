@@ -10,7 +10,7 @@ body.dark {
 }
 
 .container {
-  max-width: 1140px;
+  max-width: 2000px;
   border-width: 2px;
   border-style: solid;
   border-color: red;
@@ -33,7 +33,7 @@ ul.blocos li {
   min-height: 200px;
 }
 ul.blocos li:nth-child(1) {
-  background-color: red;
+  background-color: green;
 }
 ul.blocos li:nth-child(2) {
   background-color: yellow;
