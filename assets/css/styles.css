@@ -10,8 +10,8 @@ body.dark {
 }
 
 .container {
-  max-width: 2000px;
-  border-width: 2px;
+  max-width: 1550px;
+  border-width: 10px;
   border-style: solid;
   border-color: red;
   margin-left: auto;
@@ -48,4 +48,13 @@ menu {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.animated-button {
+  display: flex;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: rgb(255, 94, 0);
+  border-left: auto;
+  border-right: auto;
 }/*# sourceMappingURL=styles.css.map */
